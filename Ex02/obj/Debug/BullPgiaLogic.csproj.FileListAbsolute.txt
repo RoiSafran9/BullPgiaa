@@ -1,0 +1,21 @@
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\Ex02\obj\Debug\BullPgiaLogic.csproj.AssemblyReference.cache
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\Ex02\obj\Debug\BullPgiaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\Ex02\bin\Debug\BullPgiaLogic.exe.config
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\Ex02\bin\Debug\BullPgiaLogic.exe
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\Ex02\bin\Debug\BullPgiaLogic.pdb
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\Ex02\obj\Debug\BullPgiaLogic.exe
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\Ex02\obj\Debug\BullPgiaLogic.pdb
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\obj\Debug\BullPgiaLogic.csproj.AssemblyReference.cache
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\obj\Debug\BullPgiaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\obj\Debug\BullPgiaLogic.exe
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\obj\Debug\BullPgiaLogic.pdb
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\bin\Debug\BullPgiaLogic.exe.config
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\bin\Debug\BullPgiaLogic.exe
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\bin\Debug\BullPgiaLogic.pdb
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\bin\Debug\BullPgiaLogic.exe.config
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\bin\Debug\BullPgiaLogic.exe
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\bin\Debug\BullPgiaLogic.pdb
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\obj\Debug\BullPgiaLogic.csproj.AssemblyReference.cache
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\obj\Debug\BullPgiaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\obj\Debug\BullPgiaLogic.exe
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\Ex02\obj\Debug\BullPgiaLogic.pdb

@@ -1,0 +1,50 @@
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.AssemblyReference.cache
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\obj\Debug\BullPgiaUI.ChancesForm.resources
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.GenerateResource.cache
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.CoreCompileInputs.cache
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\bin\Debug\BullPgiaUI.pdb
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\obj\Debug\BullPgiaUI.pdb
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\obj\Debug\BullPgiaUI.ButtonCell.resources
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\obj\Debug\BullPgiaUI.GameBoardForm.resources
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\obj\Debug\BullPgiaUI.PickAColorForm.resources
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\bin\Debug\BullPgiaLogic.exe
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\bin\Debug\BullPgiaLogic.pdb
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\bin\Debug\BullPgiaLogic.exe.config
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.CopyComplete
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\bin\Debug\BullPgiaUI.exe.config
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\bin\Debug\BullPgiaUI.exe
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\Solution\BullPgiaUI\obj\Debug\BullPgiaUI.exe
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaUI.exe.config
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaUI.exe
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaUI.pdb
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaLogic.exe
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaLogic.pdb
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaLogic.exe.config
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.AssemblyReference.cache
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.ButtonCell.resources
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.ChancesForm.resources
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.GameBoardForm.resources
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.PickAColorForm.resources
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.GenerateResource.cache
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.CoreCompileInputs.cache
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.CopyComplete
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.exe
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.pdb
+C:\Users\Roi Safran\Desktop\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.AskIfNewGameForm.resources
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaUI.exe.config
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaUI.exe
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaUI.pdb
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaLogic.exe
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaLogic.pdb
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\bin\Debug\BullPgiaLogic.exe.config
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.AssemblyReference.cache
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.AskIfNewGameForm.resources
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.ButtonCell.resources
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.ChancesForm.resources
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.GameBoardForm.resources
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.PickAColorForm.resources
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.GenerateResource.cache
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.CoreCompileInputs.cache
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.csproj.CopyComplete
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.exe
+C:\Users\Roi Safran\Desktop\University\Year2\Csharp\Ex05\C23 Ex05 RoiSafran 318384690 RanZilka 206589707\BullPgiaUI\obj\Debug\BullPgiaUI.pdb

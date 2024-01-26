@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullPgiaLogic", "Ex02\BullPgiaLogic.csproj", "{D383F4D0-4CCD-4B7F-9ACB-0E18886D6B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullPgiaUI", "BullPgiaUI\BullPgiaUI.csproj", "{EDCD26FF-1CD2-434E-90E1-7AADF3005DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D383F4D0-4CCD-4B7F-9ACB-0E18886D6B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D383F4D0-4CCD-4B7F-9ACB-0E18886D6B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D383F4D0-4CCD-4B7F-9ACB-0E18886D6B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D383F4D0-4CCD-4B7F-9ACB-0E18886D6B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCD26FF-1CD2-434E-90E1-7AADF3005DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCD26FF-1CD2-434E-90E1-7AADF3005DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCD26FF-1CD2-434E-90E1-7AADF3005DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCD26FF-1CD2-434E-90E1-7AADF3005DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6E6D65-4005-462B-B61A-53A00B899F38}
+	EndGlobalSection
+EndGlobal
